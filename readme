@@ -1,0 +1,5 @@
+Pokedex: LaFortuna Region
+
+The LaFortuna pokedex lists all discovered Pokemon, allowing you to view details of all creatures and view an image of them. 
+
+Ideally, pokemon details would be able to be loaded in from a file to alow displaying different sets of creatures, though due to a lack of SD card readers on any of my computers the data has been hard coded as proof of concept. The data loading process is abstracted from the actual program, so could be easily updated given more time/resources for the project.
